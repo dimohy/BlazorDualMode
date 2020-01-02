@@ -1,3 +1,9 @@
+Forked from Suchiman/BlazorDualMode.
+
+Check the operation after modifying the source code using Blazor version 3.1.0-preview4.
+
+---
+
 Demo on how to dynamically switch from client to server side mode by appending `?mode=server` to the url.
 
 # Howto
