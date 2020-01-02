@@ -1,4 +1,4 @@
-Forked from Suchiman/BlazorDualMode.
+Forked from [Suchiman/BlazorDualMode](https://github.com/Suchiman/BlazorDualMode).
 
 Check the operation after modifying the source code using Blazor version 3.1.0-preview4.
 
