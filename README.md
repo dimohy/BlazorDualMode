@@ -3,10 +3,8 @@ Forked from [Suchiman/BlazorDualMode](https://github.com/Suchiman/BlazorDualMode
 I modified the source code with Blazor version 3.1.0-preview4 and tested it after compiling.
 
 The [Blazor Webassembly Demo](https://dimohy.maum.in/BlazorDualMode) and [Blazor Server Demo](https://dimohy.maum.in/BlazorDualMode/?mode=server) site will show you the difference in behavior.
-
 The difference between the two is the difference between the '?mode=server' URL parameter and internally
 The only difference is whether you use 'blazor.webassembly.js' or 'blazor.server.js'.
-
 Check the Network status of the web browser developer console to see the difference between the two modes.
 
 ---
