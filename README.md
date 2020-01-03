@@ -7,6 +7,8 @@ The [Blazor Webassembly Demo](https://dimohy.maum.in/BlazorDualMode) and [Blazor
 The difference between the two is the difference between the '?mode=server' URL parameter and internally
 The only difference is whether you use 'blazor.webassembly.js' or 'blazor.server.js'.
 
+Check the Network status of the web browser developer console to see the difference between the two modes.
+
 ---
 
 Demo on how to dynamically switch from client to server side mode by appending `?mode=server` to the url.
