@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Blazor.Hosting;
 
+
 namespace BlazorDualMode.Client
 {
     public class Program
