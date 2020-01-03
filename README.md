@@ -1,6 +1,6 @@
 Forked from [Suchiman/BlazorDualMode](https://github.com/Suchiman/BlazorDualMode).
 
-Check the operation after modifying the source code using Blazor version 3.1.0-preview4.
+I modified the source code with Blazor version 3.1.0-preview4 and tested it after compiling.
 
 ---
 
